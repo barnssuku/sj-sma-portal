@@ -152,8 +152,11 @@ li{
   border-top: 1px solid #d5d5d5;
 }
 /** jquery css code **/
-/*.hidden-sections, #middle #middle_bottom div{
+.hide-sections /*#middle #middle_bottom div */{
 	display: none;
-}*/
+}
+.show-sections{
+  display: block;
+}
 
 
